@@ -1,0 +1,7 @@
+<suite name="Logout test suite" verbose="1">
+    <test name="Logout Test">
+        <classes>
+            <class name="tests.LogoutTest"></class>
+        </classes>
+    </test>
+</suite>
