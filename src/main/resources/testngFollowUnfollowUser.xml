@@ -1,0 +1,7 @@
+<suite name="tests" verbose="1">
+    <test name="FollowUnfollowUser">
+        <classes>
+            <class name="tests.FollowUnfollowUser"></class>
+        </classes>
+    </test>
+</suite>

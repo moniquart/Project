@@ -1,7 +1,7 @@
 <suite name="tests" verbose="1">
     <test name="Logout Test">
         <classes>
-            <class name="tests.LogoutTest"></class>
+            <class name="tests.ModifyProfileTest"></class>
         </classes>
     </test>
 </suite>
