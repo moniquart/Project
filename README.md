@@ -25,3 +25,6 @@ Modify Profile Test;
 Upload a user picture test;
 
 All test can be executed with “mvn clean test comand”
+
+
+
